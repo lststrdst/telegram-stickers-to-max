@@ -4,6 +4,12 @@
 
 Зачем: потому что хуёвые стикеры в MAX заебали.
 
+## Наглядная инструкция в Figma
+
+[Открыть пошаговую инструкцию Telegram → MAX](https://www.figma.com/design/JB4Ev7iq5KeVvQP6Qjz2LZ/Telegram-MAX-instruktsiya)
+
+Внутри шесть экранов: получение токена у `@BotFather`, запуск `sticker2max.cmd`, выбор папки с PNG, загрузка в официальный `@stickers` и сохранение набора. Листайте макеты слева направо.
+
 ## Что получается
 
 ```text
