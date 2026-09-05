@@ -4,11 +4,29 @@
 
 Зачем: потому что хуёвые стикеры в MAX заебали.
 
-## Наглядная инструкция в Figma
+## Наглядная инструкция
 
-[Открыть пошаговую инструкцию Telegram → MAX](https://www.figma.com/design/JB4Ev7iq5KeVvQP6Qjz2LZ/Telegram-MAX-instruktsiya)
+![Быстрый маршрут: ссылка на Telegram-пак, подготовка PNG и загрузка в MAX](docs/guide/00-overview.png)
 
-Внутри шесть экранов: получение токена у `@BotFather`, запуск `sticker2max.cmd`, выбор папки с PNG, загрузка в официальный `@stickers` и сохранение набора. Листайте макеты слева направо.
+### 1. Получить токен у BotFather
+
+![Создание пустого Telegram-бота и получение токена](docs/guide/01-botfather-token.png)
+
+### 2. Запустить CMD
+
+![Запуск sticker2max.cmd и ввод ссылки на стикерпак](docs/guide/02-run-cmd.png)
+
+### 3. Открыть папку с PNG
+
+![Папка max_pack_01 с готовыми PNG](docs/guide/03-output-folder.png)
+
+### 4. Загрузить файлы в MAX
+
+![Добавление PNG через официальный бот stickers в MAX](docs/guide/04-upload-to-max.png)
+
+### 5. Сохранить набор
+
+![Назначение эмодзи и сохранение набора MAX](docs/guide/05-save-pack.png)
 
 ## Что получается
 
