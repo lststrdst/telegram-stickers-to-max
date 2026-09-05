@@ -1,0 +1,4 @@
+# Пустой ввод в sticker2max.cmd обработает все ссылки ниже.
+https://t.me/addstickers/faartzwc_by_stickrubot
+https://t.me/addstickers/YobanyRot04
+https://t.me/addstickers/vodkaandpivas_by_fStikBot
